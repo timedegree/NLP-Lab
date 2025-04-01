@@ -8,7 +8,9 @@ dependencies = [
     "gensim>=4.3.3",
     "ipykernel>=6.29.5",
     "jieba>=0.42.1",
+    "kagglehub>=0.3.10",
     "matplotlib>=3.10.1",
     "nltk>=3.9.1",
     "pandas>=2.2.3",
+    "snownlp>=0.12.3",
 ]
